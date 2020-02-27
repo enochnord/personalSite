@@ -25,6 +25,16 @@ hr {
     background-color: #F4A02D;
 }
 
+.midContainer div {
+    height: 100%;
+    background-color: #CF7A56;
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    left: 225px;
+}
+
 .botContainer {
     height: 20rem;
     width: 100%;
